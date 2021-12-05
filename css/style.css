@@ -1,0 +1,33 @@
+
+body{
+    font: 20px Nunito sans;
+}
+.navbar {
+    background-color: #F18C71;
+}
+
+.quem-somos{
+    background-color: #96F171;
+    color: white;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color:#F1CC71;
+}
+
+.servicos{
+    background-color: #D6F171;
+}
+
+.bg-footer{
+    background-color: #71F1CC;
+}
+
+h3{
+    color: white;
+}
